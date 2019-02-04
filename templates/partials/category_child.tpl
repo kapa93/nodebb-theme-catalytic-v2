@@ -1,4 +1,4 @@
-<div component="categories/category" class="<!-- IF ../class -->{../class}<!-- ELSE -->col-md-12 col-sm-12 col-xs-12<!-- ENDIF ../class --> category-item" data-cid="{../cid}" data-numRecentReplies="{../numRecentReplies}">
+<div component="categories/category" class="col-md-12 col-sm-12 col-xs-12 category-item" data-cid="{../cid}" data-numRecentReplies="{../numRecentReplies}">
 	<meta itemprop="name" content="{../name}">
 
 	<div class="category-icon">
