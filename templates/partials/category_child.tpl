@@ -1,4 +1,4 @@
-<div component="categories/category" class="col-md-12 col-sm-12 col-xs-12 category-item" data-cid="{../cid}" data-numRecentReplies="{../numRecentReplies}">
+<div component="categories/category" class="col-md-12 col-sm-12 col-xs-12 category-item" data-cid="{../cid}" data-numRecentReplies="3">
 	<meta itemprop="name" content="{../name}">
 
 	<div class="category-icon">
@@ -37,14 +37,6 @@
 				</a>
 				<div class="description" itemprop="description">{../descriptionParsed}</div>
 			</div>
-
-			<!-- IF !topics.length -->
-			<div class="alert alert-warning" id="category-no-topics">
-				[[category:no_topics]]
-			</div>
-			<!-- ENDIF !topics.length -->
-
-			<!-- IMPORT partials/topics_list.tpl -->
 
 			<!-- IF !../link -->
 			<!-- BEGIN posts -->
