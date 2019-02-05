@@ -38,6 +38,14 @@
 				<div class="description" itemprop="description">{../descriptionParsed}</div>
 			</div>
 
+			<!-- IF !topics.length -->
+			<div class="alert alert-warning" id="category-no-topics">
+				[[category:no_topics]]
+			</div>
+			<!-- ENDIF !topics.length -->
+
+			<!-- IMPORT topics_list.tpl -->
+
 			<!-- IF !../link -->
 			<!-- BEGIN posts -->
 			<div component="category/posts" class="post-preview clearfix">
