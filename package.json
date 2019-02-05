@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-catalytic-v2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Catalytic Community theme",
   "main": "theme.less",
   "repository": {

@@ -44,7 +44,7 @@
 			</div>
 			<!-- ENDIF !topics.length -->
 
-			<!-- IMPORT topics_list.tpl -->
+			<!-- IMPORT partials/topics_list.tpl -->
 
 			<!-- IF !../link -->
 			<!-- BEGIN posts -->
