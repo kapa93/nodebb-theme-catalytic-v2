@@ -1,4 +1,4 @@
-<div component="categories/category" class="col-md-12 col-sm-12 col-xs-12 category-item" data-cid="{../cid}" data-numRecentReplies="3">
+<div component="categories/category" class="col-md-12 col-sm-12 col-xs-12 category-item" data-cid="{../cid}" data-numRecentReplies="{../numRecentReplies}">
 	<meta itemprop="name" content="{../name}">
 
 	<div class="category-icon">

@@ -1,5 +1,5 @@
-<div class="row categories" itemscope itemtype="http://www.schema.org/ItemList">
-	<!-- BEGIN categories -->
-	<!-- IMPORT partials/category_child.tpl -->
-	<!-- END categories -->
+<div widget-area="sidebar">
+  <!-- BEGIN widgets.sidebar -->
+  {{widgets.sidebar.html}}
+  <!-- END widgets.sidebar -->
 </div>
